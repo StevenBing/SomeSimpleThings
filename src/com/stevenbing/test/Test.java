@@ -15,4 +15,7 @@ public class Test {
 		System.out.println("OJBK");
 		
 	}
+	
+	
+	public void testGit_01(){}
 }
