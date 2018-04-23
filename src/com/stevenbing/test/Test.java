@@ -9,5 +9,10 @@ public class Test {
 	
 	public void testGit(){
 		System.out.println("OJBK");
+		System.out.println("OJBK");
+		System.out.println("OJBK");
+		System.out.println("OJBK");
+		System.out.println("OJBK");
+		
 	}
 }
